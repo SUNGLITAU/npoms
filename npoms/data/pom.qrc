@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="pom">
+    <file>tmp4design/舆情监控黑500.png</file>
+    <file>tmp4design/舆情监控红500.png</file>
+    <file>tmp4design/舆情监控蓝500.png</file>
+    <file>tmp4design/话题精华分析.png</file>
+    <file>tmp4design/与世界分享你的知识、经验和见解.png</file>
+    <file>tmp4design/知乎知乎蓝色.png</file>
+  </qresource>
+</RCC>
